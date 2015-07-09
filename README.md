@@ -4,7 +4,15 @@ a workshop on git - how to create your PRs so others can merge them easily.
 ## Before We Start
 please fork this repository to your user by clicking the <a href="#before-you-start"><img src="https://github.com/nadavwe/git_workshop/raw/master/.readme/fork.png" height="15" title="Fork" alt="Fork" align="center"/></a> button in the right side of the screen.
 
-you're finished! here's a treat:
+you're finished! there's a [treat](#treat)!
+
+
+## Guided Tours
+* [Reset](tours/reset.md)
+* [Conflict in a Fork](tours/pr.md)
+
+
+## Treat
 #### adding github wix code search to your Chorme!
 1. in chrome, right click the url bar
 2. choose "Edit Search Engines".
@@ -16,9 +24,7 @@ you're finished! here's a treat:
 5. now go to your url bar and write ```github Laboratory``` (copy-paste kicks in the magic if you press TAB after pasting).
 6. Enjoy!
 
-## Guided Tours
-* [Reset](tours/reset.md)
-* [Conflict in a Fork](tours/pr.md)
+
 
 
 
